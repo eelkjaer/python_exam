@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Python Exam - 4. Semester - Fall 2021 👋</h1>
 <p>
 
-## Vi har skabet et værktøj som kan hjælpe dig med at finde den bedste Macbook til prisen vha. machine learning og web scraping. 
+## Vi har skabet et værktøj som løser problemet med at finde den bedste Macbook til prisen vha. machine learning og web scraping. 
 
 ### Vi benytter disse data til at analysere det mest optimale køb på følgende måde:
 - Vi bruger Normalisering og Plotting til at finde sammenhænge i data.
